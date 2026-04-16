@@ -1,0 +1,1 @@
+Direct upload this extracted project to GitHub root, then Actions > Build APK > Run workflow.
